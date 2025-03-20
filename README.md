@@ -1,5 +1,9 @@
 # Budgetan iOS - Student Budgeting Application
 
+|  |  |  |
+|:---:|:---:|:---:|
+| ![Image 1](images/Profile.png) | ![Image 2](images/Home.png) | ![Image 3](images/Expense.png) |
+
 ## Overview
 Budgetan is a student-focused budgeting application designed to help students manage their finances effectively. The iOS app provides an intuitive interface for tracking expenses, setting budget goals, and making informed financial decisions throughout the academic journey.
 
